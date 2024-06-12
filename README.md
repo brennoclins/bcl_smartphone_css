@@ -11,3 +11,4 @@ Nesse projeto o foco é na construção do dispositivo atraves da estilização 
 - [TipeScript](https://vitejs.dev/)
 - [ViteJS](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Eslint Config Rocktseat](https://github.com/rocketseat/eslint-config-rocketseat)
