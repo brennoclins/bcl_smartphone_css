@@ -12,3 +12,4 @@ Nesse projeto o foco é na construção do dispositivo atraves da estilização 
 - [ViteJS](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Eslint Config Rocktseat](https://github.com/rocketseat/eslint-config-rocketseat)
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
