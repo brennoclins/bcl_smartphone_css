@@ -13,3 +13,4 @@ Nesse projeto o foco é na construção do dispositivo atraves da estilização 
 - [TailwindCSS](https://tailwindcss.com/)
 - [Eslint Config Rocktseat](https://github.com/rocketseat/eslint-config-rocketseat)
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
