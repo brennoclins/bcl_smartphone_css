@@ -10,3 +10,4 @@ Nesse projeto o foco é na construção do dispositivo atraves da estilização 
 - [ReactJS](https://react.dev/)
 - [TipeScript](https://vitejs.dev/)
 - [ViteJS](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
