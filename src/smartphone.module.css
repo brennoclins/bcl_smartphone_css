@@ -3,7 +3,7 @@
   relative
   w-screen
   h-screen
-  bg-[url(public/imgs/surf_8.jpg)]
+  bg-[url(/imgs/surf_8.jpg)]
   bg-contain
   bg-center
 
@@ -176,7 +176,6 @@
   w-2
   left-1
   top-0
-  /* bg-gradient-to-b from-emerald-800 via-emerald-900 to-emerald-950 */
   bg-gradient-to-b from-zinc-100 via-zinc-400 to-zinc-950
 }
 
@@ -188,8 +187,6 @@
   h-[45px]
   w-[10px]
   rounded-2xl
-  /* bg-gradient-to-b from-[#6a6b6f] to-[#0b0b0b] */
-  /* bg-gradient-to-b from-emerald-800 to-[#0b0b0b] */
   bg-gradient-to-b from-white to-[#0b0b0b]
 }
 
@@ -264,16 +261,6 @@
   overflow-hidden
 }
 .phoneBottom .bottomSpeaker div:after {
-  /* content: "";
-  display: block;
-  height: 3px;
-  width: 3px;
-  background-color: #fff;
-  border-radius: 50%;
-  position: absolute;
-  bottom: -1px;
-  left: 3px;
-  opacity: 0.4; */
   @apply
   content-[""]
   absolute

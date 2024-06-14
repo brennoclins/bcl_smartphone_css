@@ -6,6 +6,8 @@ Projeto de estudos criando um smartphone com ReactJS, TypeScript, TailwindCSS e 
 
 Nesse projeto o foco é na construção do dispositivo atraves da estilização fazendo uso avançado do css modules com TailwindCSS
 
+[Link do projeto na web](https://bcl-smartphone-css.vercel.app/)
+
 
 ### Techs e Libs
 
